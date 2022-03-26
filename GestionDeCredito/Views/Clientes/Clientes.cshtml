@@ -1,0 +1,66 @@
+﻿@model List<GestionDeCredito.Models.Cliente>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 class="display-2">Lista de clientes</h1>
+<div>
+    <table class="table table-bordered table-hover table-striped" id="TablaClientes">
+        <thead>
+            <tr>
+                <th>
+                    Nombre
+                </th>
+                <th>
+                    Apellido
+                </th>
+                <th>
+                    Telefono
+                </th>
+                <th>
+                    Direccion
+                </th>
+                <th>
+                    Genero
+                </th>
+                <th>
+                    Cedula
+                </th>
+                <th>
+                    Acciones
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var item in Model)
+                {
+                        <tr>
+                            <td>@item.Nombre</td>
+                            <td>@item.Apellido</td>
+                            <td>@item.Telefono</td>
+                            <td>@item.Direccion</td>
+                            <td>@item.Genero</td>
+                            <td>@item.Cedula</td>
+                            <td>
+                                <a class="btn btn-info" asp-action="EditarCliente" asp-route-id="@item.Id" title="Editar Cliente"><i class="fa-solid fa-file-pen"></i></a>
+                                <a class="btn btn-danger" asp-action="EliminarCliente" asp-route-id="@item.Id" title="Eliminar Cliente"><i class="fa-solid fa-circle-minus"></i></a>
+                            </td>
+                        </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <a class="btn btn-outline-primary" asp-action="Edit">Crear nuevo</a>
+</div>
+
+@section Scripts{
+<script>
+    $(document).ready(function () {
+        $('#TablaClientes').DataTable();
+    });
+</script>
+ }

@@ -1,0 +1,65 @@
+﻿@model List<GestionDeCredito.Models.Cliente>
+<h1>Crear nuevo prestamo</h1>
+
+<div>
+    <form asp-action="CrearPrestamo">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Cliente: </label>
+                    <select class="form-control" name="IdCliente" id="Cliente">
+                        @{
+                            foreach (var Cliente in Model)
+                            {
+                                <option value="@Cliente.Id">@Cliente.Nombre @Cliente.Apellido</option>
+                            }
+                        }
+                    </select>
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Monto: </label>
+                    <input class="form-control" type="number" id="Monto" value="" />
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Interes: </label>
+                    <input class="form-control" type="number" id="Interes" value="" maxlength="8" />
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Plazo: </label>
+                    <input class="form-control" type="number" id="Plazo" value="" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Estado: </label>
+                    <input class="form-control" type="text" id="Estado" value="" />
+                </div>
+            </div>
+
+        </div>
+
+        <div class="form-group">
+            @*<input type="submit"  class="btn btn-success" value="Guardar" />*@
+            <a class="btn btn-success" id="btnGuardar">Guardar</a>
+        </div>
+    </form>
+
+</div>
+
+@section Scripts{
+
+    <script src="~/js/Prestamo.js"></script>
+}
+

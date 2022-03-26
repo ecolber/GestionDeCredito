@@ -1,0 +1,52 @@
+﻿
+@model GestionDeCredito.Models.PrestamoPago
+
+<h1>Crear Pago</h1>
+
+<form asp-action="GuardarPago">
+    <div>
+        @{
+            foreach (var prestamo in Model.Prestamos)
+            {
+                <input type="hidden" id="IdPrestamo" name="Idprestamo" value="@prestamo.Id"  />
+                }
+            }      
+            </div>
+    <div class="row">  
+      
+          @{ foreach (var item in Model.Clientes)
+              {
+
+                <input type="hidden" id="IdCliente" name="Idcliente" value="@item.Id" />
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label> Monto: </label>
+                        <input class="form-control Cliente" type="text" readonly="true" id="IdCliente" name="IdCliente" value="@item.Nombre @item.Apellido" />
+                    </div>
+                </div>
+            }
+
+        }
+
+
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label> Monto Pagado: </label>
+                <input class="form-control monto" type="number" id="MontoPagado" name="MontoPagado" value="" />
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        @*<input type="submit" class="btn btn-success" value="Editar" />*@
+        <a class="btn btn-success" id="btnGuardar">Guardar</a>
+    </div>
+</form>
+
+@section Scripts{
+
+    <script src="~/js/GuardarPago.js"></script>
+}
+

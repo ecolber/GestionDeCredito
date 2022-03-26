@@ -1,0 +1,284 @@
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.StaticWebAssets.xml
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.exe
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.deps.json
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.runtimeconfig.json
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.runtimeconfig.dev.json
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.pdb
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.Views.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.Views.pdb
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.csproj.AssemblyReference.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.AssemblyInfoInputs.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.AssemblyInfo.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorAssemblyInfo.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorAssemblyInfo.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\staticwebassets\GestionDeCredito.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\staticwebassets\GestionDeCredito.StaticWebAssets.xml
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\scopedcss\bundle\GestionDeCredito.styles.css
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.TagHelpers.input.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.TagHelpers.output.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorCoreGenerate.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Clientes.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.Views.pdb
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.csproj.CopyComplete
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.dll
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.pdb
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.genruntimeconfig.cache
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Edit.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\EditarCliente.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Prestamo\Index.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Prestamo\CrearPrestamo.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.StaticWebAssets.xml
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.exe
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.deps.json
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.runtimeconfig.json
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.runtimeconfig.dev.json
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.pdb
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.Views.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\GestionDeCredito.Views.pdb
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.csproj.AssemblyReference.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.AssemblyInfoInputs.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.AssemblyInfo.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.csproj.CoreCompileInputs.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.MvcApplicationPartsAssemblyInfo.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.MvcApplicationPartsAssemblyInfo.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorAssemblyInfo.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorAssemblyInfo.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\staticwebassets\GestionDeCredito.StaticWebAssets.Manifest.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\staticwebassets\GestionDeCredito.StaticWebAssets.xml
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\scopedcss\bundle\GestionDeCredito.styles.css
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.TagHelpers.input.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.TagHelpers.output.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorCoreGenerate.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Clientes.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Edit.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\EditarCliente.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Prestamo\CrearPrestamo.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Prestamo\Index.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorTargetAssemblyInfo.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.RazorTargetAssemblyInfo.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.Views.pdb
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.csproj.CopyComplete
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.pdb
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\GestionDeCredito.genruntimeconfig.cache
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Prestamo\EditarPrestamo.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Pago\Index.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Pago\Index.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Prestamo\EditarPrestamo.cshtml.g.cs
+C:\Users\LENOVO THINKPAD\source\repos\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Pago\CrearPago.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Views\Pago\CrearPago.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sistemas\GestionDeCredito\GestionDeCredito\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs

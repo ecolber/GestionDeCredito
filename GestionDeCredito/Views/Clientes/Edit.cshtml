@@ -1,0 +1,62 @@
+﻿
+<h1>Crear nuevo cliente</h1>
+
+<div>
+    <form asp-action="CrearCliente">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Nombres: </label>
+                    <input class="form-control" id="Nombre" type="text" value="" />
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Apellidos: </label>
+                    <input class="form-control" type="text" id="Apellido" value="" />
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Telefono: </label>
+                    <input class="form-control" type="number" id="Telefono" value="" maxlength="8" />
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Direccion: </label>
+                    <input class="form-control" type="text" id="Direccion" value="" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Genero: </label>
+                    <input class="form-control" type="text" id="Genero" value="" />
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Cedula: </label>
+                    <input class="form-control" type="text" id="Cedula" value="" />
+                </div>
+            </div>
+
+        </div>
+
+        <div class="form-group" >
+            @*<input type="submit"  class="btn btn-success" value="Guardar" />*@
+            <a class="btn btn-success" id="btnGuardar">Guardar</a>
+        </div>
+    </form>
+
+</div>
+
+@section Scripts{
+    <script src="~/js/Cliente.js"></script>
+
+ }

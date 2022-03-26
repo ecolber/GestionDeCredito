@@ -1,0 +1,60 @@
+﻿@model GestionDeCredito.Models.Cliente
+
+<h1>Editar Cliente</h1>
+
+<form asp-action="ActualizarCliente">
+    <input type="hidden" class="Id" name="Id" value="@Model.Id" />
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label> Nombres: </label>
+                <input class="form-control Nombre" type="text" name="Nombre" value="@Model.Nombre" />
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label> Apellidos: </label>
+                <input class="form-control Apellido" type="text" name="Apellido" value="@Model.Apellido" maxlength="8" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label> Telefono: </label>
+                <input class="form-control Telefono" type="number" name="Telefono" value="@Model.Telefono" />
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label> Direccion: </label>
+                <input class="form-control Direccion" type="text" name="Direccion" value="@Model.Direccion" />
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label> Genero: </label>
+                <input class="form-control Genero" type="text" name="Genero" value="@Model.Genero" />
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label> Cedula: </label>
+                <input class="form-control Cedula" type="text" name="Cedula" value="@Model.Cedula" />
+            </div>
+        </div>
+
+    </div>
+    <div class="form-group">
+        @*<input type="submit" class="btn btn-success" value="Editar" />*@
+        <a class="btn btn-success" id="btnEditar">Editar</a>
+    </div>
+</form>
+
+@section Scripts{
+
+    <script src="~/js/EditarCliente.js"></script>
+}

@@ -1,0 +1,54 @@
+﻿@model GestionDeCredito.Models.PrestamoPago
+
+<h1 class="display-2">Lista de Pagos</h1>
+<div>
+    <table class="table table-bordered table-hover table-striped" id="TablaPagos">
+        <thead>
+            <tr>
+                <th>
+                    Cliente
+                </th>
+                <th>
+                    Monto Pagado
+                </th>
+                <th>
+                    Fecha Pago
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var item in Model.Pagos)
+                {
+                    <tr>
+                        <td>
+                            @{
+                                var prestamo = Model.Prestamos.Where(a => a.Id == a.Id).FirstOrDefault();
+                                var cliente = Model.Clientes.Where(c => c.Id == prestamo.IdCliente).FirstOrDefault();
+
+                                <span>@(cliente.Nombre + " " + cliente.Apellido)</span>
+
+                            }
+                        </td>
+
+
+                        <td>@item.MontoPagado</td>
+                        <td>@item.FechaPago</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+@*<div>
+    <a class="btn btn-outline-primary" asp-action="Prestamo">Crear nuevo</a>
+</div>*@
+
+@section Scripts{
+    <script>
+    $(document).ready(function () {
+        $('#TablaPagos').DataTable();
+    });
+    </script>
+}

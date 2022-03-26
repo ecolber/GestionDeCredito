@@ -1,0 +1,53 @@
+﻿@model GestionDeCredito.Models.Prestamo
+<h1>Actualizar prestamo</h1>
+
+<div>
+    <form asp-action="ActualizarPrestamo">
+        <div class="row">
+            <input type="hidden" class="Id" id="Id" name="Id" value="@Model.Id" />
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Monto: </label>
+                    <input class="form-control" type="number" id="Monto" value="@Model.Monto" />
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Interes: </label>
+                    <input class="form-control" type="number" id="Interes" value="@Model.Interes" maxlength="8" />
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label> Plazo: </label>
+                    <input class="form-control" type="number" id="Plazo" value="@Model.Plazo" />
+                </div>
+            </div><div class="col-md-6">
+    <div class="form-group">
+        <label> Estado: </label>
+        <input class="form-control" type="text" id="Estado" value="@Model.Estado" />
+    </div>
+</div>
+        </div>
+
+        <div class="row">
+            
+
+        </div>
+
+        <div class="form-group">
+            @*<input type="submit"  class="btn btn-success" value="Guardar" />*@
+            <a class="btn btn-success" id="btnEditar">Actualizar</a>
+        </div>
+    </form>
+
+</div>
+
+@section Scripts{
+    <script src="~/js/EditarPrestamo.js"></script>
+   
+}
+

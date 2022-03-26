@@ -1,0 +1,77 @@
+﻿
+@model GestionDeCredito.Models.ClientePrestamo
+
+<h1 class="display-2">Lista de Prestamos</h1>
+<div>
+    <table class="table table-bordered table-hover table-striped" id="TablaPrestamos">
+        <thead>
+            <tr>
+                <th>
+                    Cliente
+                </th>
+                <th>
+                    Monto
+                </th>
+                <th>
+                    Interes
+                </th>
+                <th>
+                    Plazo
+                </th>
+                <th>
+                    Saldo
+                </th>
+                <th>
+                    Estado
+                </th>
+                <th>
+                    Fecha
+                </th>
+                <th>
+                    Acciones
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var item in Model.Prestamos)
+                {
+                    <tr>
+                        @*<td>@item.IdCliente</td>*@
+                        <td>
+                            @{
+                                var cliente = Model.Clientes.Where(a => a.Id == item.IdCliente).FirstOrDefault();
+
+                                <span>@(cliente.Nombre + " " + cliente.Apellido)</span>
+
+                            }
+                        </td>
+
+
+                        <td>@item.Monto</td>
+                        <td>@item.Interes</td>
+                        <td>@item.Plazo</td>
+                        <td>@item.Saldo</td>
+                        <td>@item.Estado</td>
+                        <td>@item.FechaCreacion</td>
+                        <td>
+                            <a class="btn btn-info" asp-action="EditarPrestamo" asp-route-id="@item.Id" title="Editar Prestamo"><i class="fa-solid fa-file-pen"></i></a>
+                            <a class="btn btn-success" asp-action="CrearPago" asp-controller="Pago" asp-route-id="@item.Id" asp-route-idcliente="@item.IdCliente" title="Pagar Prestamo"><i class="fa-solid fa-credit-card"></i></a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <a class="btn btn-outline-primary" asp-action="Prestamo">Crear nuevo</a>
+</div>
+@section Scripts{
+    <script>
+    $(document).ready(function () {
+        $('#TablaPrestamos').DataTable();
+    });
+    </script>
+}
